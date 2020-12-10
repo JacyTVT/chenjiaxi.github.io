@@ -4,20 +4,20 @@
 
 [Obsidian]()
 
-  * [Title](Title.md)
-  * [Additive Models](Additive_Models.md)
-  * [Direct consensus model](Direct_consensus_model.md)
-  * [Dispersion model](Dispersion_model.md)
-  * [Referent-shift consensus model](Referent-shift_consensus_model.md)
-  * [Process model](Process_model.md)
+  * [Title](Obsidian/Title.md)
+  * [Additive Models](Obsidian/Additive_Models.md)
+  * [Direct consensus model](Obsidian/Direct_consensus_model.md)
+  * [Dispersion model](Obsidian/Dispersion_model.md)
+  * [Referent-shift consensus model](Obsidian/Referent-shift_consensus_model.md)
+  * [Process model](Obsidian/Process_model.md)
 
 [Latex]()
 
-  * [Latex sharing](Latex.md)
+  * [Latex sharing](Latex/Latex.md)
 
-[SPSS](SPSS.md)
+[SPSS](SPSS/SPSS.md)
 
-[AMOS](AMOS.md)
+[AMOS](AMOS/AMOS.md)
 
 
 
