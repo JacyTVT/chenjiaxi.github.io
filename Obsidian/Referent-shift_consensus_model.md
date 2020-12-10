@@ -1,5 +1,3 @@
-[[Typology of Composition Models]]
-**[[Consensus Models]]**
 ## Referent-shift consensus vs [[Direct consensus model]]
  **Similarity:**  The within-group agreement of lower level attributes, is used to compose the lower level construct to the higher level construct.
 ** Difference:** 

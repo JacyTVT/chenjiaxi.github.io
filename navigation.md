@@ -4,7 +4,6 @@
 
 [Obsidian]()
 
-  * [Title](Obsidian/Title.md)
   * [Additive Models](Obsidian/Additive_Models.md)
   * [Direct consensus model](Obsidian/Direct_consensus_model.md)
   * [Dispersion model](Obsidian/Dispersion_model.md)

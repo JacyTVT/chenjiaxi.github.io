@@ -1,5 +1,3 @@
-[[Typology of Composition Models]]
-**[[Consensus Models]]**
 ## Functional relationships
 Higher level unit is a summation of the lower level units regardless of the variance among these units.
 
