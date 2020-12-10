@@ -14,7 +14,7 @@
 
 % 本文档命令
 \usepackage{array}
-\newcommand{\ccr}[1]{\makecell{{\color{#1}\rule{1cm}{1cm}}}}
+
 
 \begin{document}
 
