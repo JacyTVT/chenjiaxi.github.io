@@ -1,6 +1,6 @@
 ## Download link
 
-[code:AMOS](https://pan.baidu.com/s/1esXz3K9Wnt4GYTDMGbcftw 
+[code:AMOS](https://pan.baidu.com/s/1esXz3K9Wnt4GYTDMGbcftw )
 
 ## License
 
