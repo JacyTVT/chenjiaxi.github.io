@@ -23,11 +23,11 @@
 
 - (5/2018 -3/2019)**Recruitment Information Publisher**
 
-​    Edited and issued job information, held two big job fairs and four vocational trainings to expand job channels for graduating students
+  Edited and issued job information, held two big job fairs and four vocational trainings to expand job channels for graduating students
 
 - (6/2018-9/2018)**Student Aid Ambassador** 
 
-​    Offered financial aid consultation service for students and engaged in the loan application in my hometown for two months
+  Offered financial aid consultation service for students and engaged in the loan application in my hometown for two months
 
 ## Research Interest
 
